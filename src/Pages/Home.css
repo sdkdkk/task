@@ -1,0 +1,15 @@
+.tourbuid{
+    background-color: aqua;
+}
+.partner{
+    color: white;
+    font-weight: 500;
+     font-size: 25px;
+}
+p.error {
+    text-align: end;
+    color: red;
+}
+.footer.pt-13.pb-7.footer.bg-color-6 {
+    background-color: #2b3393;
+}
